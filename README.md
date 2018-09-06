@@ -7,3 +7,5 @@ This is the another repo for `python` learning, using the internal network addre
 ## Platform
 This course is based on Jupyter-Hub (UIC Version).
 [![Capture.PNG](https://i.loli.net/2018/09/06/5b90bbd051009.png)](https://i.loli.net/2018/09/06/5b90bbd051009.png)
+
+You can use `python3` or `python2`, but the lecturer prefer using `python3` and also I personally recommend `python3`
